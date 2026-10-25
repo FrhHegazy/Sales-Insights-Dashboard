@@ -16,7 +16,7 @@ This project uses SQL Server to prepare and analyze sales data, then presents ke
 
 Watch the dashboard walkthrough:
 
-<video src="dashboard-demo.mp4" controls width="700"></video>
+![Dashboard preview](dashboard-demo.gif)
 
 
 ## Tools
